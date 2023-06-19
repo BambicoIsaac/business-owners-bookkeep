@@ -1,0 +1,20 @@
+.container {
+    font-family: arial;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    height:100vh;
+    /* Center vertically and horizontally */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.dataTables_filter {
+  color: white;  
+}
+
+.dataTables_length {
+  color: white; 
+}
